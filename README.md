@@ -8,7 +8,6 @@ This project is a part of the LEARN INTERMEDIATE JAVASCRIPT course from Codecade
 
 - [General Info](#general-info)
 - [To-do List](#to-do-list)
-- [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Status](#status)
@@ -22,9 +21,6 @@ This project is a part of the LEARN INTERMEDIATE JAVASCRIPT course from Codecade
 
 - [ ] Create a parent class named Media with three subclasses: Book, Movie, and CD
 - [ ] Create library classes by extending parent and adding new methods  
-
-## Screenshots
-
 
 
 ## Technologies
