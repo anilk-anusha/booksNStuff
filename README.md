@@ -19,8 +19,8 @@ This project is a part of the LEARN INTERMEDIATE JAVASCRIPT course from Codecade
 
 ## To-do List
 
-- [ ] Create a parent class named Media with three subclasses: Book, Movie, and CD
-- [ ] Create library classes by extending parent and adding new methods  
+- [x] Create a parent class named Media with three subclasses: Book, Movie, and CD
+- [x] Create library classes by extending parent and adding new methods  
 
 
 ## Technologies
